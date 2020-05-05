@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [面试题](mian-shi-ti.md)
+* [面试](mian-shi-ti.md)
 * [PHP](php.md)
 * [Java](java.md)
 * [Golang](golang.md)
